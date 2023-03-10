@@ -9,6 +9,7 @@
 - [Groups](#groups)
 - [Organizations](#organizations)
 - [Platforms](#platforms)
+- [Practices](#practices)
 
 
 ## Alternatives
@@ -45,6 +46,14 @@ List of platforms aggregating open source information.
 - [OSCI - Open Source Contributor Index](https://opensourceindex.io) - Open Source Contributor Index tracks and measures open source activity on GitHub by commercial organizations
 - [OSS Insight](https://ossinsight.io) - Open Source Software Insight
 - [Swiss OSS Benchmark](https://ossbenchmark.com) - Ranking of Swiss Institutions Releasing Open Source Software
+
+
+## Practices
+
+List of open source practices.
+
+- [InnerSource Patterns](https://patterns.innersourcecommons.org) - Best Practices in pattern format - Easy to understand, evaluate, and apply
+- [Open Practice Library](https://openpracticelibrary.com) - iterative process model practices for rapidly developing digital products
 
 
 ## Contribute
