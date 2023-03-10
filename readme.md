@@ -17,6 +17,7 @@
 List of open source alternative sites.
 
 - [AlternativeTo](https://alternativeto.net) - Crowdsourced software recommendations
+- [OpenSourceAlternative.To](https://www.opensourcealternative.to) - Open Source Alternative To Proprietary Software
 - [OPENSOURCE Builders](https://opensource.builders) - Open-source alternatives
 
 
