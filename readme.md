@@ -6,6 +6,7 @@
 ## Contents
 
 - [Alternatives](#alternatives)
+- [Badges](#badges)
 - [Groups](#groups)
 - [Organizations](#organizations)
 - [Platforms](#platforms)
@@ -19,6 +20,14 @@ List of open source alternative sites.
 - [AlternativeTo](https://alternativeto.net) - Crowdsourced software recommendations
 - [OpenSourceAlternative.To](https://www.opensourcealternative.to) - Open Source Alternative To Proprietary Software
 - [OPENSOURCE Builders](https://opensource.builders) - Open-source alternatives
+
+
+## Badges
+
+List of qualitative and quantitative open source badges.
+
+- [OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices
+- [Shields.io](https://shields.io) - Quality metadata badges for open source projects
 
 
 ## Groups
