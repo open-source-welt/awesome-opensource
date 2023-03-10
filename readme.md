@@ -5,8 +5,18 @@
 
 ## Contents
 
+- [Alternatives](#alternatives)
 - [Groups](#groups)
 - [Organizations](#organizations)
+- [Platforms](#platforms)
+
+
+## Alternatives
+
+List of open source alternative sites.
+
+- [AlternativeTo](https://alternativeto.net) - Crowdsourced software recommendations
+- [OPENSOURCE Builders](https://opensource.builders) - Open-source alternatives
 
 
 ## Groups
@@ -26,6 +36,15 @@ List of groups that drive Open Source Program Offices (OSPOs).
 - [GFOSS](https://gfoss.eu) - Open Technologies Alliance (GFOSS)  is a non-profit organization founded in 2008, 37 Universities and Research Centers are shareholders of GFOSS.
 - [OSBA - Open Source Business Alliance](https://osb-alliance.de) - Bundesverband für digitale Souveränität e.V.
 - [Open Source Sweden](https://opensourcesweden.org) - Föreningen Leverantörer av Öppen Programvara i Sverige Open Source Sweden
+
+
+## Platforms
+
+List of platforms aggregating open source information.
+
+- [OSCI - Open Source Contributor Index](https://opensourceindex.io) - Open Source Contributor Index tracks and measures open source activity on GitHub by commercial organizations
+- [OSS Insight](https://ossinsight.io) - Open Source Software Insight
+- [Swiss OSS Benchmark](https://ossbenchmark.com) - Ranking of Swiss Institutions Releasing Open Source Software
 
 
 ## Contribute
