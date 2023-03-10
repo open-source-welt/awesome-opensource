@@ -7,6 +7,7 @@
 
 - [Alternatives](#alternatives)
 - [Badges](#badges)
+- [Foundations](#foundations)
 - [Groups](#groups)
 - [Organizations](#organizations)
 - [Platforms](#platforms)
@@ -36,6 +37,14 @@ List of groups that drive Open Source Program Offices (OSPOs).
 
 - [OSPO Alliance](https://ospo.zone) - platform for sharing and promoting world class materials on good governance for Open Source Program Offices.
 - [// TODO Group](https://todogroup.org) - talk openly, develop openly
+
+
+## Foundations
+
+- [Apache Software Foundation](https://www.apache.org) - a 501(c)3 non-profit public charity organization incorporated in the United States of America
+- [Eclipse Foundation](https://www.eclipse.org) - The Community for Open Innovation and Collaboration
+- [Linux Foundation](https://www.linuxfoundation.org) - Decentralized innovation. Built on trust.
+- [FSFE](https://fsfe.org) - Free Software Foundation Europe
 
 
 ## Organizations
