@@ -1,6 +1,6 @@
 # Awesome Open Source [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources on Open Source itself
+> A curated list of awesome resources on Open Source itself
 
 
 ## Contents
