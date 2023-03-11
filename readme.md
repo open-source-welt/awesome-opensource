@@ -63,10 +63,14 @@ List of groups that drive Open Source Program Offices (OSPOs).
 
 List of platforms aggregating open source information.
 
-- [Open Hub](https://www.openhub.net) - Discover, Track and Compare Open Source
-- [OSCI - Open Source Contributor Index](https://opensourceindex.io) - Open Source Contributor Index tracks and measures open source activity on GitHub by commercial organizations
-- [OSS Insight](https://ossinsight.io) - Open Source Software Insight
-- [Swiss OSS Benchmark](https://ossbenchmark.com) - Ranking of Swiss Institutions Releasing Open Source Software
+### Insight
+- [analyzemyrepo.com](https://analyzemyrepo.com) - Get In-Depth Insights into adoption, contributions, diversity, community governance and more.
+- [Open Hub](https://www.openhub.net) - Discover, Track and Compare Open Source.
+- [OSS Insight](https://ossinsight.io) - Open Source Software Insight.
+
+### Ranking
+- [OSCI - Open Source Contributor Index](https://opensourceindex.io) - Open Source Contributor Index tracks and measures open source activity on GitHub by commercial organizations.
+- [Swiss OSS Benchmark](https://ossbenchmark.com) - Ranking of Swiss Institutions Releasing Open Source Software.
 
 
 ## Practices
