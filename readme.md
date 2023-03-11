@@ -36,7 +36,7 @@ List of qualitative and quantitative open source badges.
 List of groups that drive Open Source Program Offices (OSPOs).
 
 - [OSPO Alliance](https://ospo.zone) - platform for sharing and promoting world class materials on good governance for Open Source Program Offices.
-- [// TODO Group](https://todogroup.org) - talk openly, develop openly
+- [TODO Group](https://todogroup.org) - talk openly, develop openly
 
 
 ## Foundations
