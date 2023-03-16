@@ -55,6 +55,7 @@ List of groups that drive Open Source Program Offices (OSPOs).
 - [COSS.fi](https://coss.fi) - Suomen avoimien tietojärjestelmien keskus
 - [GFOSS](https://gfoss.eu) - Open Technologies Alliance (GFOSS)  is a non-profit organization founded in 2008, 37 Universities and Research Centers are shareholders of GFOSS.
 - [OSBA - Open Source Business Alliance](https://osb-alliance.de) - Bundesverband für digitale Souveränität e.V.
+- [OSSBIG | Austria](https://www.ossbig.at) - Open Source Software Business Innovation Group
 - [Open Source Initiative](https://opensource.org) - As a steward of the Open Source Definition, we set the foundation for the Open source Software ecosystem 
 - [Open Source Sweden](https://opensourcesweden.org) - Föreningen Leverantörer av Öppen Programvara i Sverige Open Source Sweden
 
