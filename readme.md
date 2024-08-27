@@ -17,7 +17,7 @@
 ## Alternatives
 
 List of open source alternative sites.
-
+- [awesome-selfhosted](https://awesome-selfhosted.net) - List of Free Software network services and web applications which can be hosted on your own server
 - [AlternativeTo](https://alternativeto.net) - Crowdsourced software recommendations
 - [OpenSourceAlternative.To](https://www.opensourcealternative.to) - Open Source Alternative To Proprietary Software
 - [OPENSOURCE Builders](https://opensource.builders) - Open-source alternatives
