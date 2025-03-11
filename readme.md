@@ -35,6 +35,7 @@ List of qualitative and quantitative open source badges.
 
 List of groups that drive Open Source Program Offices (OSPOs).
 
+- [Open Source Observatory (OSOR)](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor) - OSOR is a place where the Free and Open Source software community can come together to publish news, find out about events, find relevant open source software solutions and read about the use of Free and Open Source in public administrations across and beyond Europe.
 - [OSPO Alliance](https://ospo.zone) - platform for sharing and promoting world class materials on good governance for Open Source Program Offices.
 - [TODO Group](https://todogroup.org) - talk openly, develop openly
 
