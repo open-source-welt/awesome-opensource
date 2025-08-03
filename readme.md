@@ -67,7 +67,6 @@ List of groups that drive Open Source Program Offices (OSPOs).
 List of platforms aggregating open source information.
 
 ### Insight
-- [analyzemyrepo.com](https://analyzemyrepo.com) - Get In-Depth Insights into adoption, contributions, diversity, community governance and more.
 - [Open Hub](https://www.openhub.net) - Discover, Track and Compare Open Source.
 - [OSS Insight](https://ossinsight.io) - Open Source Software Insight.
 
