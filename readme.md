@@ -67,6 +67,7 @@ List of groups that drive Open Source Program Offices (OSPOs).
 List of platforms aggregating open source information.
 
 ### Insight
+- [is it really FOSS?](https://isitreallyfoss.com) - Where Projects are Evaluated To see if they're as free and open source as advertised
 - [Open Hub](https://www.openhub.net) - Discover, Track and Compare Open Source.
 - [OSS Insight](https://ossinsight.io) - Open Source Software Insight.
 
